@@ -1,0 +1,1 @@
+{"apple": {"price": "80", "vat": "2"}, "parle": {"price": "80", "vat": "2"}, "juice": {"price": "89", "vat": "2"}}
